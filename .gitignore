@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # IDE Stuff
-.idea/
+.idea
