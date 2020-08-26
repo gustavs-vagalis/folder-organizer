@@ -3,7 +3,7 @@ A small, simple program to be used to sort files in a specified folder by file t
 
 ## Installation 
 ### Windows
-On Windows, currently there is no way to install it,
+On Windows, currently there is no way to install it.
 
 ### Linux
 ```bash
