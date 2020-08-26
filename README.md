@@ -8,10 +8,12 @@ On Linux it can be run as a regular script or installed to /bin.
 <br>
 **OR**
 <br>
-_Run_ 
-`sudo make install` _once_
+*Run* 
+`sudo make install` 
+*once*
 <br>
-_Then use_ `organize /path/to/folder`
+*Then use* 
+`organize /path/to/folder`
 
 <h3>Windows</h3>
 `py /path/to/main.py /path/to/folder`
