@@ -17,7 +17,7 @@ setup(
     },
     entry_points={
         "console_scripts": (
-            "folder-organizer = folder_organizer.__main__:main",
+            "organize = folder_organizer.__main__:main",
         )
     },
     classifiers=[
