@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="folder-organizer",
+    name="folder_organizer",
     version="2020.0.0.2",
     keywords="folder, organize, file, extension, download",
     description="A small, simple program to be used to sort files in a specified folder by file type.",
