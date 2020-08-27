@@ -38,9 +38,9 @@ for file in os.listdir():
     if ext:
         try:
             os.mkdir(ext.replace('.', ''))
-            os.rename(os.path.join(os.getcwd(), file), os.path.join(os.getcwd(), ext, file))
+            os.rename(os.path.join(os.getcwd(), file), os.path.join(os.getcwd(), ext.replace('.', ''), file))
         except FileExistsError:
-            os.rename(os.path.join(os.getcwd(), file), os.path.join(os.getcwd(), ext, file))
+            os.rename(os.path.join(os.getcwd(), file), os.path.join(os.getcwd(), ext.replace('.', ''), file))
         current_file += 1
         print('\033[0K\r' + progress_bar(current_file, total_files, 20), end='')
     else:
