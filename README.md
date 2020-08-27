@@ -2,30 +2,12 @@
 A small, simple program to be used to sort files in a specified folder by file type.
 
 ## Installation 
-### Windows
-On Windows, currently there is no way to install it.
-
-### Linux
-```bash
-cd /path/to/folder-organizer
-sudo make install
-```
-
-## Usage
-
-### Windows
 ```commandline
-py /path/to/main.py /path/to/folder
-```
-
-### Linux
-```bash
-organize /path/to/folder
-```
-
-## Uninstalling
-### Linux
-```bash
+git clone https://github.com/gustavs-vagalis/folder-organizer.git
 cd /path/to/folder-organizer
-sudo make uninstall
+pip install -e .
+```
+## Usage
+```commandline
+python3 -m folder-organizer /path/to/folder
 ```
