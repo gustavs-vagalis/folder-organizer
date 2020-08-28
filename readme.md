@@ -1,3 +1,6 @@
+# THIS IS THE FIRST VERSION OF THIS PROJECT AND IS ONLY KEPT FOR HISTORICAL REASONS!
+## Use the branch `master` or `testing` for the maintained version!
+
 # Download Organizer
 Sorts files in your download folder by extension, creates folders for each automatically.
 **Don't forget to check if the directory in the code matches yours!**
