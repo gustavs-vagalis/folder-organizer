@@ -21,3 +21,7 @@ pip install .
     * `organize /path/to/folder/`
 * Windows
     * `python -m folder_organizer \path\to\folder`
+    
+### Examples
+![Example]
+(https://i.imgur.com/YtEBpl3.png)
