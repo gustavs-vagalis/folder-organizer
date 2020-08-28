@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name="folder_organizer",
@@ -15,6 +15,7 @@ setup(
         "Source": "https://github.com/gustavs-vagalis/folder-organizer",
         "Tracker": "https://github.com/gustavs-vagalis/folder-organizer/issues"
     },
+    packages=find_packages(),
     entry_points={
         "console_scripts": (
             "organize = folder_organizer.__main__:main",
@@ -32,4 +33,3 @@ setup(
     ],
     data_files=[("", ["LICENSE"])]
 )
-
