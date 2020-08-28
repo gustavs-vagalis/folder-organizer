@@ -23,4 +23,4 @@ pip install .
     * `python -m folder_organizer \path\to\folder`
     
 ### Examples
-https://i.imgur.com/YtEBpl3.png
+<img src=https://i.imgur.com/YtEBpl3.png>
