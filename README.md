@@ -15,3 +15,9 @@ pip install .
 ### From packaged release
 * Head over to the [releases page](https://github.com/gustavs-vagalis/folder-organizer/releases/) and grab the latest release in a `.whl` package.
 * Follow the instructions there, as they might change.
+
+### Usage
+* Linux
+    * `organize /path/to/folder/`
+* Windows
+    * `python -m folder_organizer \path\to\folder`
