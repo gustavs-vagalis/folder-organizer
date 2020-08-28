@@ -14,4 +14,4 @@ pip install .
 
 ### From packaged release
 * Head over to the [releases page](https://github.com/gustavs-vagalis/folder-organizer/releases/) and grab the latest release in a `.whl` package.
-* Follow the instructions there, as they might change. 
+* Follow the instructions there, as they might change.
