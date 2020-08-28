@@ -29,3 +29,5 @@ pip uninstall folder-organizer
 ```commandline
 sudo pip uninstall folder-organizer
 ```
+
+## Examples
