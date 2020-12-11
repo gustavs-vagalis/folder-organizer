@@ -23,8 +23,7 @@ pip install .
     * `organize DRIVE:\path\to\folder`
     
 ### Examples
-![Example]
-(https://i.imgur.com/YtEBpl3.png)
+<img src=https://i.imgur.com/YtEBpl3.png>
 
 ## Uninstalling
 ```
