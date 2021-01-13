@@ -3,6 +3,11 @@ A small, simple program to be used to sort files in a specified folder by file t
 
 ## Installation
 It can be installed either from source code, allowing modification before installation, or directly from the releases page.
+
+### From packaged release
+* Head over to the [releases page](https://github.com/gustavs-vagalis/folder-organizer/releases/) and grab the latest release in a `.whl` package.
+* Follow the instructions there, as they might change.
+
 ### From source
 ```
 git clone https://github.com/gustavs-vagalis/folder-organizer.git
@@ -11,10 +16,6 @@ cd /path/to/folder-organizer/
 pip install .
 ```
 *Note: you might have to use `sudo` for installation.*
-
-### From packaged release
-* Head over to the [releases page](https://github.com/gustavs-vagalis/folder-organizer/releases/) and grab the latest release in a `.whl` package.
-* Follow the instructions there, as they might change.
 
 ### Usage
 * Linux
